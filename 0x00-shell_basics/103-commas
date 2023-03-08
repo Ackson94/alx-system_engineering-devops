@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mp | grep -v /
+ls -amvp
