@@ -53,4 +53,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+* **Arturo Ackson Mutuma** 
