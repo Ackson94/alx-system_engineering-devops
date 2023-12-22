@@ -9,7 +9,7 @@ File permission is 0744
 File owner is www-data
 File group is www-data
 File contains I love Puppet
-Example:
+## Example:
 ~~~
 root@6712bef7a528:~# puppet-lint --version
 puppet-lint 2.5.2
