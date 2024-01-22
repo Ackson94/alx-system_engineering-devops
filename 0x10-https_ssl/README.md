@@ -37,4 +37,4 @@ Let’s also add other subdomains to make our life easier, and write a Bash scri
 ---
 
 ## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+* **Arturo Ackson Mutuma** - [ackson mutuma](https://github.com/ackson94)
